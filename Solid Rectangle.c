@@ -5,7 +5,7 @@ void solid_rectangle(int height, int width);
 void main(){
 	
 	// call the shape function and choose the width & height
-	solid_rectangle(5, 5);
+	solid_rectangle(5, 7);
 	
 }
 
