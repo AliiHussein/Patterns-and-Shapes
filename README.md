@@ -10,9 +10,10 @@ Creating patterns and shapes using C &amp; C++ Language.
 ## Outputs
 
 ### Solid Rectangle
-
+```
 * * * * * * *
 * * * * * * *
 * * * * * * *
 * * * * * * *
 * * * * * * *
+```
