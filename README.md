@@ -62,9 +62,16 @@ for(int i = 0; i < height; i++){ // Controls the Height length shape
 * *
 *
 ```
-## Inverted full pyramid
-
 ## Full pyramid
+```
+    *
+   ***
+  *****
+ *******
+*********
+```
+
+## Inverted full pyramid
 
 ## Hollow inverted full pyramid
 
