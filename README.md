@@ -5,9 +5,9 @@ Creating patterns and shapes using C &amp; C++ Language.
 1. Divide it into multiple shapes (in case of complex shapes).
 2. To control the unit height and width of the shape create a nested loop.
 ```
-for(int i = 0; i < height; i++){ // Controls the Height length shape
+for(int i = 0; i < height; i++){ // Controls the Height length using the for loop condition
 		
-	for(int j = 0; j < width; j++){ // Controls the width length and shape
+	for(int j = 0; j < width; j++){ // Controls the width length (for loop condition) and shape (body)
 		
 	}
 	printf("\n"); // To go to next line
@@ -72,6 +72,13 @@ for(int i = 0; i < height; i++){ // Controls the Height length shape
 ```
 
 ## Inverted full pyramid
+```
+*********
+ *******
+  *****
+   ***
+    *
+```
 
 ## Hollow inverted full pyramid
 
