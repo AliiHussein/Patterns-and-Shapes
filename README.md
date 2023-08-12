@@ -98,6 +98,13 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 ```
 
 ## Half pyramid by numbers
+```
+1 
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
 
 ## Half pyramid by numbers 2
 
