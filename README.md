@@ -118,15 +118,14 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 1
 ```
 
-## Half pyramid by Alphabets
-
-## Floyed Triangle
-
-## Inverted Half pyramid by numbers
-
-## full pyramid by numbers 1
-
-## full pyramid by numbers 2
+## Hollow half pyramid by numbers
+```
+1 
+1 2
+1   3
+1     4
+1 2 3 4 5
+```
 
 ## House
 ```
