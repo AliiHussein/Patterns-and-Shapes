@@ -17,6 +17,9 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 3. The outer loop controls the height and the inner loop controls the width.
 4. In case the shape is divided to multiple shapes create a nested loop for each shape indepentendly.
 
+## Link
+* https://www.faceprep.in/c/pattern-programs-in-c/
+
 ## Outputs
 
 ### Solid Rectangle
@@ -106,7 +109,14 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 1 2 3 4 5
 ```
 
-## Half pyramid by numbers 2
+## Half pyramid by numbers inverted
+```
+1 2 3 4 5 
+1 2 3 4
+1 2 3
+1 2
+1
+```
 
 ## Half pyramid by Alphabets
 
