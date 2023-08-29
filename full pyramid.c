@@ -5,7 +5,7 @@ void full_pyramid(int length);
 void main(){
 	
 	// call the shape function and choose the length of the full pyramid
-	full_pyramid(5);
+	full_pyramid(3);
 	
 }
 
