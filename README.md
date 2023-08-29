@@ -127,6 +127,15 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 1 2 3 4 5
 ```
 
+## full pyramid by numbers
+```
+    1    
+   212
+  32123
+ 4321234
+543212345
+```
+
 ## House
 ```
     *    
