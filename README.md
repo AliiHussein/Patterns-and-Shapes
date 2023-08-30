@@ -136,6 +136,15 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 543212345
 ```
 
+## inverted full pyramid by numbers
+```
+543212345
+ 4321234
+  32123
+   212
+    1
+```
+
 ## House
 ```
     *    
@@ -159,7 +168,7 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
    ***************
     *************
      ***********
-      *********      
+      *********
        *******
         *****
          ***
