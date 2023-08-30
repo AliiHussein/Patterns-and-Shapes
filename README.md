@@ -136,6 +136,14 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 543212345
 ```
 
+## hollow full pyramid by numbers
+```
+    1    
+   2 2
+  3   3
+ 4     4
+543212345
+```
 ## inverted full pyramid by numbers
 ```
 543212345
