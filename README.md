@@ -162,6 +162,8 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
     1
 ```
 
+## Solid Daimond
+
 ## House
 ```
     *    
