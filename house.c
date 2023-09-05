@@ -5,7 +5,9 @@ void house(int length);
 void main(){
 	
 	// call the shape function and choose the length of the house
-	house(5);
+    house(5);
+    
+	
 	
 }
 
