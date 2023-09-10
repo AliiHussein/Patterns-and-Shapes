@@ -178,7 +178,15 @@ for(int i = 0; i < height; i++){ // Controls the Height length using the for loo
 
 ## Solid Half Daimond
 ```
-
+*    
+**
+***
+****
+*****
+****
+***
+**
+*
 ```
 
 ## Hollow Daimond
