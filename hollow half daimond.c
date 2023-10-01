@@ -4,7 +4,7 @@ void hollow_half_daimond(int len);
 
 void main(){
 
-    hollow_half_daimond(3);
+    hollow_half_daimond(5);
 
 }
 
@@ -14,7 +14,7 @@ void hollow_half_daimond(int len){
         for(int j = 0; j < len; j++){
             // Upper half of the daimond
             if(i < len){
-                if(j <= i){
+                if(j == 0 || j == i){
                     printf("*");
                 }
                 else{
@@ -23,7 +23,12 @@ void hollow_half_daimond(int len){
             }
             // Lower half of the daimond
             else{
-                
+                if(j == 0 || j == (len*2 - i -2)){
+                    printf("*");
+                }
+                else{
+                    printf(" ");
+                }
             }
             
             
